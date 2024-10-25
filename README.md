@@ -5,10 +5,10 @@ Página com Botão para Mostrar/Ocultar Texto em Next.js
 
 Integrantes:
 
-Guilherme Miranda Bertinato da Rocha - https://github.com/GBertinato \n
-Débora Abreu - https://github.com/DeborahAbreu \n
-Jean Alex - https://github.com/thucuru \n
-Pedro Carvalho - https://github.com/pedro068 \n
+Guilherme Miranda Bertinato da Rocha - https://github.com/GBertinato \**
+Débora Abreu - https://github.com/DeborahAbreu \**
+Jean Alex - https://github.com/thucuru \**
+Pedro Carvalho - https://github.com/pedro068 \**
 
 Descrição do Projeto
 Este projeto demonstra o uso básico do Next.js (v14+) para criar uma interface simples, com um botão que alterna a visibilidade de um texto. Ao clicar, o botão exibe ou oculta o conteúdo, ilustrando conceitos de estado (useState), organização de componentes e estilização com CSS.
